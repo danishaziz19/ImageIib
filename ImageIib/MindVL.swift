@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class MindVL {
+public class MindVL {
 
     private static var sharedInstance: MindVL!
     private var imageViewModel: ImageViewModel = ImageViewModel()
