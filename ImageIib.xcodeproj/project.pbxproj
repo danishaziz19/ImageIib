@@ -16,15 +16,7 @@
 		1C212ECC21CD0F5D0059AA8C /* DataType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C212EC321CD0F5D0059AA8C /* DataType.swift */; };
 		1C212ECE21CD0F5D0059AA8C /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C212EC621CD0F5D0059AA8C /* API.swift */; };
 		1C212ED421CD13BB0059AA8C /* MindVL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C212ED321CD13BB0059AA8C /* MindVL.swift */; };
-		1C212ED521CD14F10059AA8C /* JsonViewModel.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212EBB21CD0F5D0059AA8C /* JsonViewModel.swift */; };
-		1C212ED621CD14F10059AA8C /* FileViewModel.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212EBC21CD0F5D0059AA8C /* FileViewModel.swift */; };
-		1C212ED721CD14F10059AA8C /* ImageViewModel.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212EBD21CD0F5D0059AA8C /* ImageViewModel.swift */; };
-		1C212ED821CD14F10059AA8C /* CacheManager.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212EBF21CD0F5D0059AA8C /* CacheManager.swift */; };
-		1C212ED921CD14F10059AA8C /* Downloader.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212EC121CD0F5D0059AA8C /* Downloader.swift */; };
-		1C212EDA21CD14F10059AA8C /* DataType.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212EC321CD0F5D0059AA8C /* DataType.swift */; };
-		1C212EDB21CD14F10059AA8C /* API.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212EC621CD0F5D0059AA8C /* API.swift */; };
 		1C212EDC21CD14F10059AA8C /* MindVL.swift in Headers */ = {isa = PBXBuildFile; fileRef = 1C212ED321CD13BB0059AA8C /* MindVL.swift */; settings = {ATTRIBUTES = (Public, ); }; };
-		1C212EDD21CD14F10059AA8C /* Info.plist in Headers */ = {isa = PBXBuildFile; fileRef = 1C212EB221CD0F2A0059AA8C /* Info.plist */; };
 		5C4A5FA9B7D3C72BB80A9F2E /* Pods_ImageIib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E3CDD80B606F402CAE62ACB /* Pods_ImageIib.framework */; };
 /* End PBXBuildFile section */
 
@@ -166,14 +158,6 @@
 			files = (
 				1C212EB321CD0F2A0059AA8C /* ImageIib.h in Headers */,
 				1C212EDC21CD14F10059AA8C /* MindVL.swift in Headers */,
-				1C212ED521CD14F10059AA8C /* JsonViewModel.swift in Headers */,
-				1C212ED621CD14F10059AA8C /* FileViewModel.swift in Headers */,
-				1C212ED721CD14F10059AA8C /* ImageViewModel.swift in Headers */,
-				1C212ED821CD14F10059AA8C /* CacheManager.swift in Headers */,
-				1C212ED921CD14F10059AA8C /* Downloader.swift in Headers */,
-				1C212EDA21CD14F10059AA8C /* DataType.swift in Headers */,
-				1C212EDB21CD14F10059AA8C /* API.swift in Headers */,
-				1C212EDD21CD14F10059AA8C /* Info.plist in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
